@@ -1,0 +1,14 @@
+﻿@model Auth
+@{
+    ViewData["Title"] = "Reset your password";
+
+}
+<div class="text-left">
+    <h1>@ViewData["Title"]</h1>
+</div>
+<form method="post">
+    <div><b>Code</b></div>
+    @Html.TextBox("myTextbox", "")
+    <input type="submit"  value="Verify"class="btn btn-outline-dark ml-3">
+    <h2>@ViewBag.Check</h2>
+</form>

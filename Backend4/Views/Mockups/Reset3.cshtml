@@ -1,0 +1,16 @@
+﻿@model Auth
+@{
+    ViewData["Title"] = "Change your password";
+
+}
+<div class="text-left">
+    <h1>@ViewData["Title"]</h1>
+</div>
+<form method="post">
+    <b style="margin-top:5px">Password </b><br>
+    <div style="margin-top:10px"> @Html.PasswordFor(p => p.Password) @Html.ValidationMessageFor(p => p.Password)</div><br>
+    <b style="margin-top:10px">Comfirm password </b><br>
+    <div style="margin-top:10px"> @Html.PasswordFor(p => p.ConfirmPassword) @Html.ValidationMessageFor(p => p.ConfirmPassword)</div><br>
+
+    <input type="submit" value="Continue" class="btn btn-primary mt-3 pr-3 pl-3">
+</form>

@@ -1,0 +1,25 @@
+﻿@model Auth
+@{
+    ViewData["Title"] = "SignUp";
+
+}
+<div class="text-left">
+    <h1>Sign Up</h1>
+</div>
+<form method="post">
+    <b>Email </b><br>
+    <div style="margin-top:5px">@Html.EditorFor(p => p.Email) @Html.ValidationMessageFor(p => p.Email)</div><br>
+    <b style="margin-top:5px">Password </b><br>
+    <div style="margin-top:5px"> @Html.PasswordFor(p => p.Password) @Html.ValidationMessageFor(p => p.Password)</div><br>
+    <b style="margin-top:5px">Comfirm password </b><br>
+    <div style="margin-top:5px"> @Html.PasswordFor(p => p.ConfirmPassword) @Html.ValidationMessageFor(p => p.ConfirmPassword)</div><br>
+    <div>
+        @Html.CheckBoxFor(p => p.Remember)
+        <label>Remember?</label>
+    </div><br />
+
+    <input type="submit" value="Continue Sign Up" class="btn btn-primary mt-3 pr-3 pl-3">
+</form>
+<script src="jquery.js"></script>
+<script src="jquery.validate.js"></script>
+<script src="jquery.validate.unobtrusive.js"></script>

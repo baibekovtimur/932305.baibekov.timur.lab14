@@ -1,0 +1,168 @@
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.exe
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.deps.json
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\ref\Backend4.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csprojAssemblyReference.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.xml
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\web2.931801.stepanov.pavel.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\appsettings.Development.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\appsettings.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.exe
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.deps.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\ref\Backend4.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.csprojAssemblyReference.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.xml
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab4-main\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\appsettings.Development.json
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\appsettings.json
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.exe
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.deps.json
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.dll
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\ref\Backend4.dll
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.pdb
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+D:\WWW\lab2.4\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.csprojAssemblyReference.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.xml
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.dll
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.pdb
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+D:\WWW\lab2.4\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete

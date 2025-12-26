@@ -1,0 +1,8 @@
+﻿<h1 >@ViewBag.Type</h1>
+
+<div style="display: flex";>
+    <b class="m-2">@ViewBag.Name </b>
+        @for (int i = 0; i < ViewBag.MyArray.Length; i++)
+        {<pre class="m-2" style="font-family:Arial; font-size:16px;">@ViewBag.MyArray[i]</pre> <br />}
+
+</div>

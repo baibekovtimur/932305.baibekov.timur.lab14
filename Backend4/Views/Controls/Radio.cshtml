@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Radio";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <div class="m-2"><b>Month</b></div>
+    @Html.RadioButton("myRadiobutton", "Январь")<label>Январь</label><br />
+    @Html.RadioButton("myRadiobutton", "Февраль")<label>Февраль</label><br />
+    @Html.RadioButton("myRadiobutton", "Март")<label>Март</label><br />
+    @Html.RadioButton("myRadiobutton", "Апрель")<label>Апрель</label><br />
+    @Html.RadioButton("myRadiobutton", "Май")<label>Май</label><br />
+    @Html.RadioButton("myRadiobutton", "Июнь")<label>Июнь</label><br />
+    @Html.RadioButton("myRadiobutton", "Июль")<label>Июль</label><br />
+    @Html.RadioButton("myRadiobutton", "Август")<label>Август</label><br />
+    @Html.RadioButton("myRadiobutton", "Сентябрь")<label>Сентябрь</label><br />
+    @Html.RadioButton("myRadiobutton", "Октябрь")<label>Октябрь</label><br />
+    @Html.RadioButton("myRadiobutton", "Ноябрь")<label>Ноябрь</label><br />
+    @Html.RadioButton("myRadiobutton", "Декабрь")<label>Декабрь</label><br />
+    <p>
+        <input type="submit" class="btn btn-outline-dark"  value="Submit" />
+    </p>
+</form>
