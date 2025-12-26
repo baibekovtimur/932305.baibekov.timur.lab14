@@ -1,0 +1,14 @@
+@model Backend4.Models.Mockups.SignUpResultViewModel
+@{
+    ViewData["Title"] = "Sign up result";
+}
+
+<h1>Sign up result</h1>
+
+<div class="mt-4">
+    <div>@Model.FirstName</div>
+    <div>@Model.LastName</div>
+    <div>@(Model.BirthDate?.ToString("d MMMM yyyy", System.Globalization.CultureInfo.GetCultureInfo("en-US")))</div>
+    <div>@Model.Email</div>
+    <div>@Model.Password</div>
+</div>

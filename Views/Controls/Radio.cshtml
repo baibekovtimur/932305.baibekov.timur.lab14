@@ -1,0 +1,32 @@
+@model Backend4.Models.Controls.RadioViewModel
+@{
+    ViewData["Title"] = "Radio";
+}
+
+<h1>Radio</h1>
+
+<form asp-action="Radio" method="post" class="mt-4">
+    <div class="form-group">
+        <div class="form-check">
+            <input class="form-check-input" type="radio" asp-for="Choice" value="Option1" id="r1">
+            <label class="form-check-label" for="r1">Option1</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" asp-for="Choice" value="Option2" id="r2">
+            <label class="form-check-label" for="r2">Option2</label>
+        </div>
+        <span asp-validation-for="Choice" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Submit</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(Model.Choice))
+{
+    <hr />
+    <div><strong>Choice:</strong> @Model.Choice</div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

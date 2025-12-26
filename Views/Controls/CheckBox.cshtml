@@ -1,0 +1,18 @@
+@model Backend4.Models.Controls.CheckBoxViewModel
+@{
+    ViewData["Title"] = "Check Box";
+}
+
+<h1>Check Box</h1>
+
+<form asp-action="CheckBox" method="post" class="mt-4">
+    <div class="form-group form-check">
+        <input asp-for="IsSelected" class="form-check-input" />
+        <label asp-for="IsSelected" class="form-check-label">IsSelected</label>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Submit</button>
+</form>
+
+<hr />
+<div><strong>IsSelected</strong> &nbsp;&nbsp; @Model.IsSelected</div>

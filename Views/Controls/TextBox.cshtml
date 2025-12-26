@@ -1,0 +1,26 @@
+@model Backend4.Models.Controls.TextBoxViewModel
+@{
+    ViewData["Title"] = "Text Box";
+}
+
+<h1>Text Box</h1>
+
+<form asp-action="TextBox" method="post" class="mt-4">
+    <div class="form-group">
+        <label asp-for="Text"></label>
+        <input asp-for="Text" class="form-control" style="max-width: 320px;" />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Submit</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <hr />
+    <div><strong>Result:</strong> @ViewBag.Result</div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
