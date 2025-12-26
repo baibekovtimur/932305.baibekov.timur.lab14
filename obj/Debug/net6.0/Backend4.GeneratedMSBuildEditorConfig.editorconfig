@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Backend4
+build_property.RootNamespace = Backend4
+build_property.ProjectDir = C:\Users\timat\Documents\Classes\5th Semester\Web-технологии\932305.baibekov.timur.lab14\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\timat\Documents\Classes\5th Semester\Web-технологии\932305.baibekov.timur.lab14
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/CheckBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcQ2hlY2tCb3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/DropDownList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcRHJvcERvd25MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/ListBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcTGlzdEJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/Radio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcUmFkaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/TextArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcVGV4dEFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Controls/TextBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbHNcVGV4dEJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/ForgotPasswordConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xGb3Jnb3RQYXNzd29yZENvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/ResetPasswordResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xSZXNldFBhc3N3b3JkUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/SignUpCredentials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaWduVXBDcmVkZW50aWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Mockups/SignUpResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaWduVXBSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timat/Documents/Classes/5th Semester/Web-технологии/932305.baibekov.timur.lab14/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
